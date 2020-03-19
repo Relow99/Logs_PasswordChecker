@@ -1,0 +1,11 @@
+2020-03-18 13:52:07,998 | PasswordChecker: password should exist
+2020-03-18 13:54:59,100 | PasswordChecker: password should be longer than than 8 characters
+2020-03-18 13:54:59,116 | PasswordChecker: true
+2020-03-18 16:40:26,672 | PasswordChecker: 
+2020-03-18 16:40:26,688 | PasswordChecker: true
+2020-03-18 16:41:41,366 | PasswordChecker: password should have at least one uppercase letter
+2020-03-18 16:41:41,381 | PasswordChecker: true
+2020-03-19 04:31:17,550 | PasswordChecker: password should have at least one lowercase letter
+2020-03-19 04:31:17,565 | PasswordChecker: true
+2020-03-19 04:33:11,228 | PasswordChecker: password should have at least one lowercase letter
+2020-03-19 04:33:11,244 | PasswordChecker: true
