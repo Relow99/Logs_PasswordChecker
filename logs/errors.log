@@ -9,3 +9,5 @@
 2020-03-19 04:31:17,565 | PasswordChecker: true
 2020-03-19 04:33:11,228 | PasswordChecker: password should have at least one lowercase letter
 2020-03-19 04:33:11,244 | PasswordChecker: true
+2020-06-18 12:57:43,691 | PasswordChecker: password should exist
+2020-06-18 12:57:43,741 | PasswordChecker: false

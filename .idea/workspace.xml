@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba74e193-26bd-490b-bbab-8d13f44d5f52" name="Default Changelist" comment="" />
+    <list default="true" id="ba74e193-26bd-490b-bbab-8d13f44d5f52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.PasswordChecker-logs-" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584586074662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1584588533080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584588533080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,10 +194,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1584585786931" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584586069287">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584588529034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584586069287" />
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584588529034" />
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1584585227227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -208,10 +218,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584586997330" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584531224564">
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585417667088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584531224564" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585417667088" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584586385303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -220,5 +230,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="68" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1584407557896" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586286903986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586286903986" />
   </component>
 </project>
