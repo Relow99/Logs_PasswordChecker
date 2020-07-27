@@ -11,3 +11,9 @@
 2020-03-19 04:33:11,244 | PasswordChecker: true
 2020-06-18 12:57:43,691 | PasswordChecker: password should exist
 2020-06-18 12:57:43,741 | PasswordChecker: false
+2020-07-27 13:27:32,410 | PasswordChecker: password should be longer than than 8 characters
+2020-07-27 13:27:32,441 | PasswordChecker: true
+2020-07-27 15:17:15,752 | PasswordChecker: - password should exist
+2020-07-27 21:47:39,237 | PasswordChecker: - password should have at least one lowercase letter
+2020-07-27 21:49:11,160 | PasswordChecker: - password should be longer than than 8 characters
+2020-07-27 21:50:59,817 | PasswordChecker: - password should have at least one special character
